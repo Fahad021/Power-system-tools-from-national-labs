@@ -53,7 +53,7 @@ A living catalog of power-systems tools and projects from national labs in the *
 
 | Tool / Project | Labs | Subfield | Link |
 |---|---|---|---|
-| ExaGO | ANL, LANL, LLNL, PNNL and collaborators | Exascale optimization, contingency analysis, OPF | https://github.com/pnnl/ExaGO |
+| ExaGO | PNNL (repo host), ANL, LANL, LLNL and collaborators | Exascale optimization, contingency analysis, OPF | https://github.com/pnnl/ExaGO |
 
 ---
 
